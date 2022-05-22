@@ -1,0 +1,36 @@
+﻿текущее обучение:
+https://stepik.org/lesson/2414/step/2?unit=931
+
+https://github.com/OldCodersClub/faq/blob/master/faq/ELEMENTARY_python.md
+
+- "Поколение Python": курс для начинающих
+https://stepik.org/course/58852/info
+
+
+
+
+
+
+= = = ПОДГОТОВКА = = =
+
+- Установка программ -
+https://www.python.org/downloads/	Python
+https://www.jetbrains.com/pycharm/	IDE
+https://pandas.pydata.org/ 		библиотека
+https://pypi.org/			Каталог пакетов Python
+
+https://desktop.github.com/		GitHub Desktop Application
+
+
+
+- Литература -
+Изучаем Python [2 тома][5-е издание] [2019 + 2020] Марк Лутц 
+(d:\Books\Программирование\Изучаем Python [2 тома][5-е издание] [2019 + 2020] Марк Лутц\)
+
+«Укус Питона» – «A Byte of Python»
+(http://svp.pp.ua/AByteOfPython/AByteofPythonRussian-2.02.pdf)
+
+
+
+«Успех в жизни – не столько вопрос таланта и возможностей, сколько концен-
+трации и настойчивости.»
