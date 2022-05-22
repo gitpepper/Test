@@ -8,18 +8,17 @@ https://stepik.org/course/58852/info
 
 
 
-
-
-
 = = = ПОДГОТОВКА = = =
 
 - Установка программ -
-https://www.python.org/downloads/	Python
-https://www.jetbrains.com/pycharm/	IDE
-https://pandas.pydata.org/ 		библиотека
-https://pypi.org/			Каталог пакетов Python
+https://www.python.org/downloads/		Python
+https://www.jetbrains.com/pycharm/		Python IDE
+https://pandas.pydata.org/ 			библиотека
+https://pypi.org/				Каталог пакетов Python
 
-https://desktop.github.com/		GitHub Desktop Application
+https://desktop.github.com/			GitHub Desktop Application
+
+https://notepad-plus-plus.org/downloads 	NotePad++ (used 8.2)
 
 
 
