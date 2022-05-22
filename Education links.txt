@@ -1,15 +1,18 @@
 ﻿текущее обучение:
-https://stepik.org/lesson/2414/step/2?unit=931
+https://stepik.org/course/67/syllabus Программирование на Python
 
-https://github.com/OldCodersClub/faq/blob/master/faq/ELEMENTARY_python.md
 
-- "Поколение Python": курс для начинающих
-https://stepik.org/course/58852/info
+?? https://github.com/OldCodersClub/faq/blob/master/faq/ELEMENTARY_python.md
 
+
+- Основные ссылки - 
+https://stepik.org/learn			Stepik
+https://github.com/gitpepper			GitHub
 
 
 = = = ПОДГОТОВКА = = =
 
+---------------------
 - Установка программ -
 https://www.python.org/downloads/		Python
 https://www.jetbrains.com/pycharm/		Python IDE
@@ -20,8 +23,7 @@ https://desktop.github.com/			GitHub Desktop Application
 
 https://notepad-plus-plus.org/downloads 	NotePad++ (used 8.2)
 
-
-
+---------------------
 - Литература -
 Изучаем Python [2 тома][5-е издание] [2019 + 2020] Марк Лутц 
 (d:\Books\Программирование\Изучаем Python [2 тома][5-е издание] [2019 + 2020] Марк Лутц\)
@@ -29,7 +31,13 @@ https://notepad-plus-plus.org/downloads 	NotePad++ (used 8.2)
 «Укус Питона» – «A Byte of Python»
 (http://svp.pp.ua/AByteOfPython/AByteofPythonRussian-2.02.pdf)
 
+---------------------
+- Дальнейшие курсы? -
+
+"Поколение Python": курс для начинающих
+https://stepik.org/course/58852/info
 
 
+---------------------
 «Успех в жизни – не столько вопрос таланта и возможностей, сколько концен-
 трации и настойчивости.»
