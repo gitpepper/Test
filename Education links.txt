@@ -8,6 +8,7 @@ https://stepik.org/course/67/syllabus Программирование на Pyth
 - Основные ссылки - 
 https://stepik.org/learn			Stepik
 https://github.com/gitpepper			GitHub
+https://www.codewars.com/			CodeWars (linked to github account)
 
 
 = = = ПОДГОТОВКА = = =
@@ -37,7 +38,12 @@ https://notepad-plus-plus.org/downloads 	NotePad++ (used 8.2)
 "Поколение Python": курс для начинающих
 https://stepik.org/course/58852/info
 
+??? https://training.epam.com/?utm_source=habr&utm_medium=article_465601&utm_campaign=devops_school_all#!/TrainingList?lang=ru&City=411,202,32,472,35,201,29,30,34,33,36,28,31&Skill=8
 
 ---------------------
 «Успех в жизни – не столько вопрос таланта и возможностей, сколько концен-
 трации и настойчивости.»
+
+
+- Разные непонятные ссылки
+https://habr.com/ru/company/epam_systems/blog/465601/
